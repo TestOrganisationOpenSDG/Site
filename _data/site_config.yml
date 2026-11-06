@@ -242,7 +242,7 @@ site_config_form:
   translation_link: ''
   config_folder: _data
   github_client_id: Ov23liFiHQk3oK7pczUM
-  github_proxy_url: https://testprojectopensdgoauth.vercel.app/
+  github_proxy_url: testprojectopensdgoauth.vercel.app
   github_repo: Site
   github_owner: TestOrganisationOpenSDG
 time_series_attributes:
