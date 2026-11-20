@@ -23,7 +23,7 @@ config_form_library_src: https://open-sdg.org/open-sdg-config-form/2.4.1/bundle.
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
+  name: England
   adjective: Australian
 create_goals:
   previous_next_links: false
